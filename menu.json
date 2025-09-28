@@ -1,0 +1,308 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "紅茶",
+            "size": [
+                {
+                    "label": "中",
+                    "price": 35
+                },
+                {
+                    "label": "大",
+                    "price": 40
+                }
+            ],
+            "temperature": {
+                "required": true,
+                "options": [
+                    "正常冰",
+                    "少冰",
+                    "微冰",
+                    "去冰",
+                    "常溫",
+                    "溫",
+                    "熱"
+                ]
+            },
+            "sweetness": {
+                "required": true,
+                "options": [
+                    "無糖",
+                    "9分甜",
+                    "8分甜",
+                    "少糖",
+                    "6分甜",
+                    "半糖",
+                    "4分甜",
+                    "微糖",
+                    "2分甜",
+                    "1分甜",
+                    "正常甜"
+                ]
+            },
+            "addons": {
+                "required": false,
+                "limit": 1,
+                "options": [
+                    {
+                        "name": "珍珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "波霸",
+                        "price": 10
+                    },
+                    {
+                        "name": "椰果",
+                        "price": 10
+                    },
+                    {
+                        "name": "混珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍波椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "波椰",
+                        "price": 10
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "綠茶",
+            "size": [
+                {
+                    "label": "中",
+                    "price": 35
+                },
+                {
+                    "label": "大",
+                    "price": 40
+                }
+            ],
+            "temperature": {
+                "required": true,
+                "options": [
+                    "正常冰",
+                    "少冰",
+                    "微冰",
+                    "去冰",
+                    "常溫",
+                    "溫",
+                    "熱"
+                ]
+            },
+            "sweetness": {
+                "required": true,
+                "options": [
+                    "無糖",
+                    "9分甜",
+                    "8分甜",
+                    "少糖",
+                    "6分甜",
+                    "半糖",
+                    "4分甜",
+                    "微糖",
+                    "2分甜",
+                    "1分甜",
+                    "正常甜"
+                ]
+            },
+            "addons": {
+                "required": false,
+                "limit": 1,
+                "options": [
+                    {
+                        "name": "珍珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "波霸",
+                        "price": 10
+                    },
+                    {
+                        "name": "椰果",
+                        "price": 10
+                    },
+                    {
+                        "name": "混珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍波椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "波椰",
+                        "price": 10
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "烏龍茶",
+            "size": [
+                {
+                    "label": "中",
+                    "price": 35
+                },
+                {
+                    "label": "大",
+                    "price": 40
+                }
+            ],
+            "temperature": {
+                "required": true,
+                "options": [
+                    "正常冰",
+                    "少冰",
+                    "微冰",
+                    "去冰",
+                    "常溫",
+                    "溫",
+                    "熱"
+                ]
+            },
+            "sweetness": {
+                "required": true,
+                "options": [
+                    "無糖",
+                    "9分甜",
+                    "8分甜",
+                    "少糖",
+                    "6分甜",
+                    "半糖",
+                    "4分甜",
+                    "微糖",
+                    "2分甜",
+                    "1分甜",
+                    "正常甜"
+                ]
+            },
+            "addons": {
+                "required": false,
+                "limit": 1,
+                "options": [
+                    {
+                        "name": "珍珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "波霸",
+                        "price": 10
+                    },
+                    {
+                        "name": "椰果",
+                        "price": 10
+                    },
+                    {
+                        "name": "混珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍波椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "波椰",
+                        "price": 10
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "四季春",
+            "size": [
+                {
+                    "label": "中",
+                    "price": 35
+                },
+                {
+                    "label": "大",
+                    "price": 40
+                }
+            ],
+            "temperature": {
+                "required": true,
+                "options": [
+                    "正常冰",
+                    "少冰",
+                    "微冰",
+                    "去冰",
+                    "常溫",
+                    "溫",
+                    "熱"
+                ]
+            },
+            "sweetness": {
+                "required": true,
+                "options": [
+                    "無糖",
+                    "9分甜",
+                    "8分甜",
+                    "少糖",
+                    "6分甜",
+                    "半糖",
+                    "4分甜",
+                    "微糖",
+                    "2分甜",
+                    "1分甜",
+                    "正常甜"
+                ]
+            },
+            "addons": {
+                "required": false,
+                "limit": 1,
+                "options": [
+                    {
+                        "name": "珍珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "波霸",
+                        "price": 10
+                    },
+                    {
+                        "name": "椰果",
+                        "price": 10
+                    },
+                    {
+                        "name": "混珠",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍波椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "珍椰",
+                        "price": 10
+                    },
+                    {
+                        "name": "波椰",
+                        "price": 10
+                    }
+                ]
+            }
+        }
+    ]
+}
