@@ -1,4 +1,4 @@
-FROM deepseek-r1:7b
+FROM llama3.2
 
 SYSTEM """
 你是一個點餐助理，請依照以下完整菜單生成 JSON 訂單：
